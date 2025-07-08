@@ -37,21 +37,18 @@ Welcome! This repository documents my 6-week Machine Learning Internship focused
 
 ## 📦 How to Run This Project
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Jishan-mansoori/Machine-learning-internship-ARYAVRAT-INFOTECH-PVT.LTD.git
-   cd Machine-learning-internship-ARYAVRAT-INFOTECH-PVT.LTD
-2. **Create and Activate Virtual Environment**
-    python -m venv ml-intern-env
-    ml-intern-env\Scripts\activate
-
-3. **Install Required Packages**
-    pip install -r requirements.txt
-
-   
-4. **Run Flask API**
-    cd week6_api_deployment
-    python app.py
+1. Clone the Repository:
+ git clone
+https://github.com/Jishan-mansoori/Machine-learning-internship-ARYAVRAT-INFOTECH-PVT.LTD.git
+ cd Machine-learning-internship-ARYAVRAT-INFOTECH-PVT.LTD
+2. Create and Activate Virtual Environment:
+ python -m venv ml-intern-env
+ ml-intern-env\Scripts\activate
+3. Install Required Packages:
+ pip install -r requirements.txt
+4. Run Flask API:
+ cd week6_api_deployment
+ python app.py
 Visit: http://localhost:5000
 
 📌 Notes
